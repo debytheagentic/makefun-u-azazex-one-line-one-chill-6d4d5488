@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "The sleep app kept one recording: at 3:14 a.m., someone in my bed answers a question in my own voice, and gets it wrong."
+ENTRY = "The locksmith had my new locks on in five minutes, then wouldn't come in to test them, and kept watching the hallway behind me."
 
 
 def main():
